@@ -3,6 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/LotteryServerBase"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/deb-lib"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DEBLib"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
